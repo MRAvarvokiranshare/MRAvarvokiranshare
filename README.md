@@ -14,7 +14,7 @@
 
 ![1000210085](https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/44e63f35-0a5a-471d-b719-249b10ec837b)
 
-- 🎟️ I’m Mrs. Bahar Black  (Gragink) 
+- 🎟️ I’m Mrs. Bahar Black (Graphics) 
 
 ![1000210089](https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/2dbccea6-8d0a-44c0-ba53-8c72935356d8)
 
