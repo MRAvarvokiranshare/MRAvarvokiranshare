@@ -6,7 +6,7 @@
 ![1000210086](https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/ecfc6253-0ad2-4c4a-8613-c335f85dd941)
 
 
-- 👩‍💻 I'M Ms.Narges (𝐏𝑦𝑡ℎ𝑜𝑛 𝐄𝐗𝐏𝐄𝐑𝐓)  
+.👩‍💻I'M Ms.Narges (𝐏𝑦𝑡ℎ𝑜𝑛 𝐄𝐗𝐏𝐄𝐑𝐓)  
 
 ![1000210088](https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/280948ab-6307-40ec-a2ee-d6017236b569)
 
