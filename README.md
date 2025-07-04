@@ -5,7 +5,6 @@
 
 
 
-
 <h1 align="center">Hi 👋,I'm MR Avarvok</h1>
 <h3 align="center">Hi, I'm Mr.اواروک, a hacker of ethics and network security, and I'm working on a cyber route. I'm a member of the Icelandic cyber team. please support us by fo</h3>
 
@@ -46,12 +45,6 @@
 
 
 
-
-
-
-<!---
-هـنـگـامـی کـه ظلـم و بــی عـدالـتـی و سـرکـوبی مـردم بــا قـانـون رخ دهـد قـانـون شـکـنـی خـود را در تـاریـخ ثــبــت مـیـکـنـد
---->
 
   
 
@@ -98,48 +91,33 @@
 
 ---
 
-### 🌟 About Our Team
+<h2 align="center">🌟 درباره تیم ما | About Our Team 🌟</h2>
 
-> A unique blend of developers, designers, and thinkers — united by creativity and code.  
-> 💥 *From vision to execution, we code the future.*
+<p align="center">
+  <img src="https://img.shields.io/badge/نوآوری-درخشان💡-purple?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+  <img src="https://img.shields.io/badge/کدنویسی-حرفه‌ای💻-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/تفکر_خلاق🎨-skyblue?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/اتحاد_تیمی🤝-success?style=for-the-badge&logo=teams&logoColor=white"/>
+</p>
 
 ---
 
-### 🧰 Tools & Tech
+<blockquote align="center" style="direction: rtl; font-family: sans-serif; font-size: 16px">
+  ✨ <b>ما یک تیم نیستیم، ما یک ذهن واحد هستیم!</b> <br>
+  ترکیبی از توسعه‌دهندگان، طراحان و متفکرانی که برای ساخت آینده‌ای دیجیتال متحد شده‌اند. <br><br>
+  از <span style="color:#ff66c4;">ایده</span> 💭 تا <span style="color:#00ccff;">اجرا</span> 🔧، <b style="color:#00ff99;">ما آینده را کدنویسی می‌کنیم</b> 💥
+</blockquote>
 
-`Python` · `Linux` · `Cyber Security` · `Graphics Design` · `Markdown` · `GitHub`
+---
 
-
-## 🧰 تکنولوژی‌های استفاده‌شده
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
-      <br/>HTML5
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" />
-      <br/>CSS3
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
-      <br/>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" />
-      <br/>React
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" />
-      <br/>Node.js
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" />
-      <br/>Express.js
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cyber_Security-000000?style=flat-square&logo=hackthebox&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Graphics_Design-E34F26?style=flat-square&logo=adobecreativecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
 ## 🧰 تکنولوژی‌ها و ابزارها
 
@@ -166,4 +144,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>  
   <b>Node.js</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Graphics_Design-E34F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
