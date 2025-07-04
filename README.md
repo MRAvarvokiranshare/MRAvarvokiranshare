@@ -45,30 +45,6 @@
             [چو ایران نباشد تن من مباد💻🍃]
 
 
-- 👋 Hi,I’m 𝐌𝐑 ꪖ𝑣𝑎𝑟𝑣𝑜𝑘   [𝐀𝐃𝐌𝐈𝐍]
-
-![1000210086](https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/ecfc6253-0ad2-4c4a-8613-c335f85dd941)
-
-
-.👩‍💻I'M Ms.Narges (𝐏𝑦𝑡ℎ𝑜𝑛 𝐄𝐗𝐏𝐄𝐑𝐓)  
-
-![1000210088](https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/280948ab-6307-40ec-a2ee-d6017236b569)
-
-- 🌱 I’m Ms Alia off    (🅴︎🅳︎🅸︎🆃︎🅾︎🆁︎) 
-
-![1000210085](https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/44e63f35-0a5a-471d-b719-249b10ec837b)
-
-- 🎟️ I’m Mrs. Bahar Black (Graphics) 
-
-![1000210089](https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/2dbccea6-8d0a-44c0-ba53-8c72935356d8)
-
-
-- 🌐 ♡Athens♡ Cyber Team
-
-![1000210092](https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/adcaa478-016a-4419-ab5d-3db67f065820)
-
-- 📱◂ WhatsApp+989050768132 ▸
-
 
 
 
@@ -77,10 +53,60 @@
 هـنـگـامـی کـه ظلـم و بــی عـدالـتـی و سـرکـوبی مـردم بــا قـانـون رخ دهـد قـانـون شـکـنـی خـود را در تـاریـخ ثــبــت مـیـکـنـد
 --->
 
-![1000210081](https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/126cce9b-c951-41b3-a670-bef0dd340934)
+  
+
+<h1 align="center">🌐 Athens Cyber Team 💻</h1>
+<p align="center">
 
 
 
 
+### 👥 Meet Our Legendary Team
 
-قسم به خون یاران ایستاده ایم تا پایان 🖤🫳 
+<table>
+  <tr>
+    <th>👤 Name</th>
+    <th>🛠️ Role</th>
+    <th>💬 Expertise</th>
+    <th>🖼️ Profile</th>
+  </tr>
+  <tr>
+    <td><b>𝐌𝐑 Avarvok</b></td>
+    <td>Admin</td>
+    <td>Project Leader & Strategy</td>
+    <td><img src="https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/ecfc6253-0ad2-4c4a-8613-c335f85dd941" width="70"/></td>
+  </tr>
+  <tr>
+    <td><b>Ms. 𝓝𝓪𝓻𝓰𝓮𝓼</b></td>
+    <td>Python Developer</td>
+    <td>Automation & AI Scripts</td>
+    <td><img src="https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/280948ab-6307-40ec-a2ee-d6017236b569" width="70"/></td>
+  </tr>
+  <tr>
+    <td><b>Ms. Alia off</b></td>
+    <td>Editor</td>
+    <td>Documentation & Content</td>
+    <td><img src="https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/44e63f35-0a5a-471d-b719-249b10ec837b" width="70"/></td>
+  </tr>
+  <tr>
+    <td><b>Mrs. 𝐁𝐚𝐡𝐚𝐫 𝐁𝐥𝐚𝐜𝐤</b></td>
+    <td>Graphic Designer</td>
+    <td>UI/UX & Visuals</td>
+    <td><img src="https://github.com/MRAvarvokiranshare/MRAvarvokiranshare/assets/146922434/2dbccea6-8d0a-44c0-ba53-8c72935356d8" width="70"/></td>
+  </tr>
+</table>
+
+---
+
+### 🌟 About Our Team
+
+> A unique blend of developers, designers, and thinkers — united by creativity and code.  
+> 💥 *From vision to execution, we code the future.*
+
+---
+
+### 🧰 Tools & Tech
+
+`Python` · `Linux` · `Cyber Security` · `Graphics Design` · `Markdown` · `GitHub`
+
+
